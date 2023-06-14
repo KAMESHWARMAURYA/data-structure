@@ -16,7 +16,7 @@ public class CreateGraph {
 
         graph[2].add(new Edge(2 ,1));
         graph[2].add(new Edge(2, 0));
-        graph[2].add(new Edge(2, 3));
+        graph[2].add(new Edge(2,   3));
 
         graph[3].add(new Edge(3, 1));
         graph[3].add(new Edge(3, 2));
